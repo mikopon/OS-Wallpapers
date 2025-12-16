@@ -5,7 +5,7 @@ const logFilePath = 'C:\\Program Files (x86)\\Steam\\steamapps\\common\\wallpape
 
 const apps = {
     app1: '"placeholder"',
-    app2: '"placeholder"',
+    app2: '""C:\Program Files\DLsiteNest\DLsiteNest.exe""',
     app3: '"placeholder"',
     app4: '"placeholder"',
     app5: '"placeholder"',
@@ -47,3 +47,4 @@ function checkWallpaperLog() {
 }
 
 checkWallpaperLog();
+
